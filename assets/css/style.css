@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Manrop/:wght@300&family=Patua+One&family=Readex+Pro&family=Spicy+Rice&display=swap');
+body{
+    font-family: Readex Pro;
+}
+.contenedor {
+    background-color: transparent;
+    background-image: url("../imagenes/ebff714ff38e0c6bdadcf6e7a5d81145.png");
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
